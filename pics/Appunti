@@ -1,0 +1,1 @@
+qcop QPE/DocAPI 'scanPath(QString,int)' /opt/qtmoko/apps/Games/ 1
